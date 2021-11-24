@@ -1,4 +1,4 @@
-# Print de uren van de dag. Voor de ochtend voeg je 'AM' toe. Voor de middag voeg je 'PM' toe
+# Print de uren van de dag. Voor de ochtend voeg je 'AM' toe. Voor de middag voeg je 'PM' toe.
 
 tijden = ["PM" , "AM"]
 
